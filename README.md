@@ -1,5 +1,6 @@
-
 # Snake Game
+
+🎮 [Play Online](https://usamadar.github.io/snake/)
 
 ## Overview
 A simple JavaScript Snake game where the objective is to eat the food and grow without running into the walls or yourself.
